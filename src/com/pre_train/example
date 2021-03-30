@@ -1,0 +1,20 @@
+
+[5650(alice), 2001(was), 2927(begining), 2000(to), 2131(get), 2200(very), 5458(tired), 1997(the), 3564(sitting), 2011(by), 2014(her), 2905(sister), 2006(on), 1996(the), 2924(bank), 1010(,), 1998(and), 1997(the), 2383(having), 2498(nothing), 2000(to), 2079(do), 1024(:), 2320(once), 2030(or), 3807(twice), 2016(she), 2018(had), 21392(pee), 5669(##ped), 2046(into), 1996(the), 2338(book), 2014(her), 2905(sister), 2001(was), 3752(reading), 1010(,), 2021(but), 2009(that), 2018(had), 2053(no), 4620(pictures), 2030(or), 11450(conversations), 1999(in), 2009(that), 1010(,), 1998(and), 2054(what), 2003(is), 1996(the), 2224(league), 1997(the), 1037(a), 2338(book), 1010(,), 2245(thought), 5650(alice), 2302(without), 4620(pictures), 2030(or), 4512(conversation), 1029(?)]
+
+sentence(57 words):['alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing to do:  once or twice she had peeped into the book her sister was reading, but it had no pictures or conversations in it,  and what is the use of a book,  thought alice  without pictures or conversation? ']
+
+tokens(57):['alice', 'was', 'beginning', 'to', 'get', 'very', 'tired', 'of', 'sitting', 'by', 'her', 'sister', 'on', 'the', 'bank,', 'and', 'of', 'having', 'nothing', 'to', 'do:', 'once', 'or', 'twice', 'she', 'had', 'peeped', 'into', 'the', 'book', 'her', 'sister', 'was', 'reading,', 'but', 'it', 'had', 'no', 'pictures', 'or', 'conversations', 'in', 'it,', 'and', 'what', 'is', 'the', 'use', 'of', 'a', 'book,', 'thought', 'alice', 'without', 'pictures', 'or', 'conversation?']
+
+单词: 57个, 拆分1个 标点:4+1+1
+------------------------------------------------------------------------------------------
+b'train-53-0' 
+
+b'\x04"M\x18h@\xa2\x02\x00\x00\x00\x00\x00\x00\x7f\x05\x02\x00\x00\xf02\x84\xa9
+
+input_ids\xdc\x00@\xcd\x16\x12\xcd\x07\xd1\xcd\x0bo\xcd\x07\xd0\xcd\x08S\xcd\x08\x98\xcd\x15R\xcd\x07\xcd\xcd\r\xec\xcd\x07\xdb\xcd\x07\xde\xcd\x0bY\xcd\x07\xd6\xcd\x07\xcc\xcd\x0bl\xcd\x03\xf2\xcd\x07\xce\x1e\x00Q\tO\xcd\t\xc23\x00\xf0\r\x1f\xcd\x04\x00\xcd\t\x10\xcd\x07\xee\xcd\x0e\xdf\xcd\x07\xe0\xcd\x07\xe2\xcdS\x90\xcd\x16%\xcd\x07\xfe6\x00$\t"E\x00A\xd1\xcd\x0e\xa8B\x00@\xe5\xcd\x07\xd9\'\x00P\x08\x05\xcd\x12\x0c9\x00P,\xba\xcd\x07\xcf\x15\x00\x02`\x00P\x08\x06\xcd\x07\xd3<\x00 \x08\xb0l\x00P\x04\r\xcd\t"9\x00 \x08\xc5\xae\x00#\x08\xfe6\x00\xf0/\x11\xa0\xcd\x04\x05\xa8
+
+sentence\xda\x01.alice was beginning to get very tired of sitt\x1d\x00\xf1\x0eby her sister on the bank, an*\x000hav)\x00@noth\x08\x00\xf0\x03to do:  once or twr\x00\xf2\x04she had peeped intoJ\x008ooka\x00\x00\x9a\x00\xf1\x00reading, but it8\x00\xb0no picturesU\x00\xf1\x06conversations in it, \x91\x00qwhat is]\x000use\xcb\x00\x11af\x00\xb2,  thought \x05\x010 wi\x11\x00\x1ftY\x00\x06\xe1? \xa9
+
+img_fname\x99\xae5\x00\x96_53_0.npz\x0f\x00\x1a1\x0f\x00\x1a2\x0f\x00\x1a3\x0f\x00\x1a4\x0f\x00\x1a5\x0f\x00\x1a6\x0f\x00\x1a7\x0f\x00\x108\x0f\x00\x80\xa6
+
+target\xc0\x00\x00\x00\x00'
